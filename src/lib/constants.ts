@@ -136,7 +136,7 @@ export const MEMBERS: Member[] = [
   },
   {
     name: "Sergio Eduardo López Lázaro",
-    company: "Test Studio",
+    company: "Draft Studio",
     category: "Desarrollo Web",
     phone: "442 485 0730",
     photo: "/members/sergio-eduardo-lopez-lazaro.jpg",
