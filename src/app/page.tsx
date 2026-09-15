@@ -12,7 +12,7 @@ export default function Home() {
       </header>
 
       <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col items-center px-6 py-12 text-center sm:py-16">
-        <p className="t-caption text-cobalto">BNI Metamorfosis · León y alrededores</p>
+        <p className="t-caption text-cobalto">BNI Metamorfosis · León</p>
         <h1 className="mt-4 text-4xl font-medium tracking-tightest text-ink sm:text-5xl">
           Directorio · Capítulo Metamorfosis
         </h1>
